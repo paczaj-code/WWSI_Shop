@@ -1,0 +1,14 @@
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\bin\Debug\net6.0\WWSI_Shop.Persistence.MySQL.deps.json
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\bin\Debug\net6.0\WWSI_Shop.Persistence.MySQL.runtimeconfig.json
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\bin\Debug\net6.0\WWSI_Shop.Persistence.MySQL.dll
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\bin\Debug\net6.0\WWSI_Shop.Persistence.MySQL.pdb
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\WWSI_Shop.Persistence.MySQL.csproj.AssemblyReference.cache
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\WWSI_Shop.Persistence.MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\WWSI_Shop.Persistence.MySQL.AssemblyInfoInputs.cache
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\WWSI_Shop.Persistence.MySQL.AssemblyInfo.cs
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\WWSI_Shop.Persistence.MySQL.csproj.CoreCompileInputs.cache
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\WWSI_Shop.Persistence.MySQL.dll
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\refint\WWSI_Shop.Persistence.MySQL.dll
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\WWSI_Shop.Persistence.MySQL.pdb
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\WWSI_Shop.Persistence.MySQL.genruntimeconfig.cache
+C:\Users\mpacz\source\repos\WWSI_Shop\WWSI_Shop.Persistence.MySQL\obj\Debug\net6.0\ref\WWSI_Shop.Persistence.MySQL.dll

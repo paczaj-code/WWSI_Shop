@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WWSI_Shop.WebApi.props" />
+</Project>

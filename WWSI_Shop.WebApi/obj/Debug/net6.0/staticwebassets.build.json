@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ADlGMswTq14M/MPEkVGdz3hWkFL6dQMEV4Zj3EeOZgk=",
+  "Source": "WWSI_Shop.WebApi",
+  "BasePath": "_content/WWSI_Shop.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

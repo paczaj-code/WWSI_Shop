@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gDvBdmAQq9zBnUd8kJbnq9IlyaFlxExO3J86qdv70sT7dtTkfwGhHP6PRXoYNw/EOkM9ZQ7TIhKb/Z+GvAjozA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mpacz\\source\\repos\\WWSI_Shop\\WWSI_Shop.WebApi\\WWSI_Shop.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mpacz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mpacz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mpacz\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\mpacz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\mpacz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\mpacz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\mpacz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

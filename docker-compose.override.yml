@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  wwsi_shop.webapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
