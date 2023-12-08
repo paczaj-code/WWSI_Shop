@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WWSI_Shop.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a9596de79fcbffda6b37225d1b255bea63d467")]
 [assembly: System.Reflection.AssemblyProductAttribute("WWSI_Shop.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WWSI_Shop.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
